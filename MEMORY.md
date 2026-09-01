@@ -1,0 +1,3 @@
+- [Docker/WSL access](docker_wsl_access.md) — wsl.exe bridging approved (mcp-wsl-exec never appeared); ssh via script-over-stdin to avoid quoting breakage
+- [Freqtrade server deployment](freqtrade_server_deployment.md) — bots live on 85.122.114.77 (`ssh freqtrade-ui`): SampleStrategy :8086, NFI X7 dry-run :8087 + auto-updater; local 8086 is a tunnel, local repo bot stopped
+- [NFI project rules & focus](nfi_project_rules_focus.md) — never push this project to a remote repo; focus: pair stats + reversal-trading signals (#10/#11/#170/#192/#193) on NFI X7

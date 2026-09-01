@@ -1,0 +1,21 @@
+services:
+  nfi-telegram-bot:
+    build: .
+    image: nfi-telegram-bot:local
+    container_name: nfi-telegram-bot
+    restart: unless-stopped
+    # Outbound-only (Telegram long-polling + REST calls to 127.0.0.1:8086/8087)
+    # - host networking so it can reach both bot APIs without publishing
+    # anything itself.
+    network_mode: host
+    volumes:
+      - /opt/freqtrade-bot/user_data/config.json:/opt/freqtrade-bot/user_data/config.json:ro
+      - /opt/nfi/user_data/config.json:/opt/nfi/user_data/config.json:ro
+    # nfi bot's REST credentials (both bots share credentials, see
+    # nfi_mcp_server/README.md); TELEGRAM_TOKEN/TELEGRAM_CHAT_ID fall back to
+    # the sample bot's config.json `telegram` block if unset here.
+    env_file:
+      - /opt/nfi/.env
+    # environment:
+    #   - TELEGRAM_TOKEN=...
+    #   - TELEGRAM_CHAT_ID=...

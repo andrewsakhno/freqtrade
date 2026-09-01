@@ -1,0 +1,31 @@
+services:
+  nfi-mcp:
+    build: .
+    image: nfi-mcp:local
+    container_name: nfi-mcp
+    restart: unless-stopped
+    # Host networking: needs to reach the bots on 127.0.0.1:8086/8087, and
+    # must bind its own MCP port to 127.0.0.1 only (never 0.0.0.0) so it
+    # stays unreachable from the public IP. FastMCP defaults MCP_HOST to
+    # 127.0.0.1 for exactly this reason - do not override it to 0.0.0.0.
+    network_mode: host
+    volumes:
+      - /opt/nfi/user_data:/opt/nfi/user_data
+      # strategies/NostalgiaForInfinityX7.py is a symlink to
+      # ../../NostalgiaForInfinityX7.py (one level above user_data, where the
+      # nfi-updater sidecar keeps the base strategy file) - mount it too so
+      # the symlink resolves inside this container.
+      - /opt/nfi/NostalgiaForInfinityX7.py:/opt/nfi/NostalgiaForInfinityX7.py:ro
+      - /opt/freqtrade-bot/user_data/config.json:/opt/freqtrade-bot/user_data/config.json:ro
+    # The nfi bot's API credentials live in /opt/nfi/.env (not its
+    # config.json) - loading the same file gives this container the same
+    # FREQTRADE__API_SERVER__USERNAME/PASSWORD env vars, without needing
+    # docker.sock (which would grant root-equivalent host access just to
+    # read two env vars). The sample bot's credentials live in its own
+    # config.json, which is mounted above and read directly - no socket
+    # needed there either.
+    env_file:
+      - /opt/nfi/.env
+    environment:
+      - MCP_HOST=127.0.0.1
+      - MCP_PORT=8765

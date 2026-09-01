@@ -1,0 +1,16 @@
+{
+  "long_signals_override": { "7": false, "65": false },
+  "short_signals_override": { "666": true },
+  "ema200_guard_enabled": true,
+  "momentum_entry_enabled": true,
+  "stale_exit_enabled": true,
+  "stale_exit_hours": 18,
+  "stale_exit_profit_band": 0.01,
+  "stale_exit_max_loss": 0.015,
+  "catastrophic_exit_enabled": true,
+  "catastrophic_exit_loss_ratio": 0.20,
+  "catastrophic_exit_min_hours": 2.0,
+  "block_regrind_after_derisk": true,
+  "pair_blocks": {},
+  "unbanned_pairs": {}
+}

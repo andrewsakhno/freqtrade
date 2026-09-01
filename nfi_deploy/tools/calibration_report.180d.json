@@ -1,0 +1,584 @@
+{
+  "calibrated": 96,
+  "computed_at": "2026-08-28T15:23:01+00:00",
+  "failed": {},
+  "lookback_days": 180,
+  "profiles": {
+    "1000BONK/USDT:USDT": {
+      "cascade_rate_72h": 0.9954614220877458,
+      "corr_with_btc": 0.6616,
+      "daily_vol_pct": 0.046176,
+      "n_candles": 4350
+    },
+    "1000SHIB/USDT:USDT": {
+      "cascade_rate_72h": 0.9932540957275939,
+      "corr_with_btc": 0.6488,
+      "daily_vol_pct": 0.034313,
+      "n_candles": 4350
+    },
+    "4/USDT:USDT": {
+      "cascade_rate_72h": 0.993918754560934,
+      "corr_with_btc": 0.2238,
+      "daily_vol_pct": 0.092693,
+      "n_candles": 4350
+    },
+    "ADA/USDT:USDT": {
+      "cascade_rate_72h": 0.9980387349840647,
+      "corr_with_btc": 0.7145,
+      "daily_vol_pct": 0.037174,
+      "n_candles": 4350
+    },
+    "AERO/USDT:USDT": {
+      "cascade_rate_72h": 0.9916098584163607,
+      "corr_with_btc": 0.627,
+      "daily_vol_pct": 0.051438,
+      "n_candles": 4350
+    },
+    "APT/USDT:USDT": {
+      "cascade_rate_72h": 0.9946332737030411,
+      "corr_with_btc": 0.6762,
+      "daily_vol_pct": 0.040982,
+      "n_candles": 4350
+    },
+    "ARB/USDT:USDT": {
+      "cascade_rate_72h": 0.9936235098419739,
+      "corr_with_btc": 0.6738,
+      "daily_vol_pct": 0.041249,
+      "n_candles": 4350
+    },
+    "ASTER/USDT:USDT": {
+      "cascade_rate_72h": 0.9977799703996053,
+      "corr_with_btc": 0.49,
+      "daily_vol_pct": 0.031606,
+      "n_candles": 4350
+    },
+    "ATOM/USDT:USDT": {
+      "cascade_rate_72h": 0.9913693901035673,
+      "corr_with_btc": 0.5447,
+      "daily_vol_pct": 0.031604,
+      "n_candles": 4350
+    },
+    "AVAX/USDT:USDT": {
+      "cascade_rate_72h": 0.9966312516195905,
+      "corr_with_btc": 0.7613,
+      "daily_vol_pct": 0.034201,
+      "n_candles": 4350
+    },
+    "AXTI/USDT:USDT": {
+      "cascade_rate_72h": 0.9923161361141603,
+      "corr_with_btc": 0.2646,
+      "daily_vol_pct": 0.096605,
+      "n_candles": 1951
+    },
+    "BMNR/USDT:USDT": {
+      "cascade_rate_72h": 0.9604166666666667,
+      "corr_with_btc": 0.7075,
+      "daily_vol_pct": 0.045819,
+      "n_candles": 1879
+    },
+    "BOME/USDT:USDT": {
+      "cascade_rate_72h": 0.9947460595446584,
+      "corr_with_btc": 0.4587,
+      "daily_vol_pct": 0.070786,
+      "n_candles": 4350
+    },
+    "BTC/USDT:USDT": {
+      "cascade_rate_72h": 0.9863770250368189,
+      "corr_with_btc": null,
+      "daily_vol_pct": 0.021564,
+      "n_candles": 4350
+    },
+    "BTW/USDT:USDT": {
+      "cascade_rate_72h": 0.9821717990275527,
+      "corr_with_btc": 0.0334,
+      "daily_vol_pct": 0.226854,
+      "n_candles": 2042
+    },
+    "CBRS/USDT:USDT": {
+      "cascade_rate_72h": 0.9991683991683992,
+      "corr_with_btc": 0.2163,
+      "daily_vol_pct": 0.070268,
+      "n_candles": 2431
+    },
+    "CHIP/USDT:USDT": {
+      "cascade_rate_72h": 0.9958912768647282,
+      "corr_with_btc": 0.2448,
+      "daily_vol_pct": 0.095758,
+      "n_candles": 3225
+    },
+    "COIN/USDT:USDT": {
+      "cascade_rate_72h": 0.9954630370963438,
+      "corr_with_btc": 0.6513,
+      "daily_vol_pct": 0.038848,
+      "n_candles": 4350
+    },
+    "COTI/USDT:USDT": {
+      "cascade_rate_72h": 0.9916874480465503,
+      "corr_with_btc": 0.2925,
+      "daily_vol_pct": 0.077402,
+      "n_candles": 4350
+    },
+    "CRCL/USDT:USDT": {
+      "cascade_rate_72h": 0.9938335046248715,
+      "corr_with_btc": 0.5171,
+      "daily_vol_pct": 0.051647,
+      "n_candles": 4350
+    },
+    "CRM/USDT:USDT": {
+      "cascade_rate_72h": 0.9858856739590685,
+      "corr_with_btc": 0.0971,
+      "daily_vol_pct": 0.032533,
+      "n_candles": 2071
+    },
+    "CRV/USDT:USDT": {
+      "cascade_rate_72h": 0.9951056156620299,
+      "corr_with_btc": 0.5921,
+      "daily_vol_pct": 0.044142,
+      "n_candles": 4350
+    },
+    "CRWD/USDT:USDT": {
+      "cascade_rate_72h": 0.9849354375896701,
+      "corr_with_btc": 0.0136,
+      "daily_vol_pct": 0.090403,
+      "n_candles": 1951
+    },
+    "DASH/USDT:USDT": {
+      "cascade_rate_72h": 0.9932701894317049,
+      "corr_with_btc": 0.5451,
+      "daily_vol_pct": 0.051365,
+      "n_candles": 4350
+    },
+    "DOGE/USDT:USDT": {
+      "cascade_rate_72h": 0.9963727678571429,
+      "corr_with_btc": 0.7656,
+      "daily_vol_pct": 0.031739,
+      "n_candles": 4350
+    },
+    "DOT/USDT:USDT": {
+      "cascade_rate_72h": 0.9997642065550578,
+      "corr_with_btc": 0.6975,
+      "daily_vol_pct": 0.03517,
+      "n_candles": 4350
+    },
+    "DRAM/USDT:USDT": {
+      "cascade_rate_72h": 0.970076169749728,
+      "corr_with_btc": 0.3568,
+      "daily_vol_pct": 0.052728,
+      "n_candles": 2450
+    },
+    "ENA/USDT:USDT": {
+      "cascade_rate_72h": 0.9957168052406148,
+      "corr_with_btc": 0.5832,
+      "daily_vol_pct": 0.05611,
+      "n_candles": 4350
+    },
+    "ENS/USDT:USDT": {
+      "cascade_rate_72h": 0.9946250319938572,
+      "corr_with_btc": 0.7286,
+      "daily_vol_pct": 0.039413,
+      "n_candles": 4350
+    },
+    "ETC/USDT:USDT": {
+      "cascade_rate_72h": 0.9939585730724971,
+      "corr_with_btc": 0.6932,
+      "daily_vol_pct": 0.030547,
+      "n_candles": 4350
+    },
+    "ETH/USDT:USDT": {
+      "cascade_rate_72h": 0.992349378386994,
+      "corr_with_btc": 0.8884,
+      "daily_vol_pct": 0.028537,
+      "n_candles": 4350
+    },
+    "ETHFI/USDT:USDT": {
+      "cascade_rate_72h": 0.9953798767967146,
+      "corr_with_btc": 0.5396,
+      "daily_vol_pct": 0.051296,
+      "n_candles": 4350
+    },
+    "FARTCOIN/USDT:USDT": {
+      "cascade_rate_72h": 0.9928217821782178,
+      "corr_with_btc": 0.6264,
+      "daily_vol_pct": 0.062648,
+      "n_candles": 4350
+    },
+    "FET/USDT:USDT": {
+      "cascade_rate_72h": 0.9935633367662204,
+      "corr_with_btc": 0.6164,
+      "daily_vol_pct": 0.050796,
+      "n_candles": 4350
+    },
+    "FF/USDT:USDT": {
+      "cascade_rate_72h": 0.999531286618233,
+      "corr_with_btc": 0.0962,
+      "daily_vol_pct": 0.087933,
+      "n_candles": 4350
+    },
+    "FIL/USDT:USDT": {
+      "cascade_rate_72h": 0.9962834489593657,
+      "corr_with_btc": 0.6244,
+      "daily_vol_pct": 0.043304,
+      "n_candles": 4350
+    },
+    "GALA/USDT:USDT": {
+      "cascade_rate_72h": 0.9967589129892794,
+      "corr_with_btc": 0.6336,
+      "daily_vol_pct": 0.043613,
+      "n_candles": 4350
+    },
+    "GIGGLE/USDT:USDT": {
+      "cascade_rate_72h": 0.9966777408637874,
+      "corr_with_btc": 0.3367,
+      "daily_vol_pct": 0.072055,
+      "n_candles": 4350
+    },
+    "HBAR/USDT:USDT": {
+      "cascade_rate_72h": 0.998780487804878,
+      "corr_with_btc": 0.6464,
+      "daily_vol_pct": 0.030916,
+      "n_candles": 4350
+    },
+    "HUMA/USDT:USDT": {
+      "cascade_rate_72h": 0.9951468090269352,
+      "corr_with_btc": 0.1561,
+      "daily_vol_pct": 0.068907,
+      "n_candles": 4350
+    },
+    "HYPE/USDT:USDT": {
+      "cascade_rate_72h": 0.973364024991779,
+      "corr_with_btc": 0.5575,
+      "daily_vol_pct": 0.045514,
+      "n_candles": 4350
+    },
+    "ICP/USDT:USDT": {
+      "cascade_rate_72h": 0.9940599173553719,
+      "corr_with_btc": 0.5614,
+      "daily_vol_pct": 0.045014,
+      "n_candles": 4350
+    },
+    "JTO/USDT:USDT": {
+      "cascade_rate_72h": 0.9890049477735019,
+      "corr_with_btc": 0.3458,
+      "daily_vol_pct": 0.065,
+      "n_candles": 4350
+    },
+    "KERNEL/USDT:USDT": {
+      "cascade_rate_72h": 0.9963916285783017,
+      "corr_with_btc": 0.3514,
+      "daily_vol_pct": 0.057256,
+      "n_candles": 4350
+    },
+    "KITE/USDT:USDT": {
+      "cascade_rate_72h": 0.9972027972027973,
+      "corr_with_btc": 0.2077,
+      "daily_vol_pct": 0.06339,
+      "n_candles": 4350
+    },
+    "KMNO/USDT:USDT": {
+      "cascade_rate_72h": 0.99560546875,
+      "corr_with_btc": 0.4022,
+      "daily_vol_pct": 0.051137,
+      "n_candles": 4350
+    },
+    "KORU/USDT:USDT": {
+      "cascade_rate_72h": 0.9987515605493134,
+      "corr_with_btc": 0.2508,
+      "daily_vol_pct": 0.166948,
+      "n_candles": 1611
+    },
+    "LAB/USDT:USDT": {
+      "cascade_rate_72h": 0.9822328294881995,
+      "corr_with_btc": 0.0604,
+      "daily_vol_pct": 0.221219,
+      "n_candles": 4350
+    },
+    "LINK/USDT:USDT": {
+      "cascade_rate_72h": 0.9938775510204082,
+      "corr_with_btc": 0.821,
+      "daily_vol_pct": 0.031339,
+      "n_candles": 4350
+    },
+    "LTC/USDT:USDT": {
+      "cascade_rate_72h": 0.9919276719405876,
+      "corr_with_btc": 0.7547,
+      "daily_vol_pct": 0.025037,
+      "n_candles": 4350
+    },
+    "MANTRA/USDT:USDT": {
+      "cascade_rate_72h": 0.9997647058823529,
+      "corr_with_btc": 0.3477,
+      "daily_vol_pct": 0.05856,
+      "n_candles": 4256
+    },
+    "MON/USDT:USDT": {
+      "cascade_rate_72h": 0.9923744412306074,
+      "corr_with_btc": 0.545,
+      "daily_vol_pct": 0.053374,
+      "n_candles": 4350
+    },
+    "MORPHO/USDT:USDT": {
+      "cascade_rate_72h": 0.9925762991476491,
+      "corr_with_btc": 0.4557,
+      "daily_vol_pct": 0.047291,
+      "n_candles": 4350
+    },
+    "MOVE/USDT:USDT": {
+      "cascade_rate_72h": 0.9973423532254168,
+      "corr_with_btc": 0.4268,
+      "daily_vol_pct": 0.053694,
+      "n_candles": 4350
+    },
+    "MSFT/USDT:USDT": {
+      "cascade_rate_72h": 0.9733520336605891,
+      "corr_with_btc": 0.1706,
+      "daily_vol_pct": 0.018884,
+      "n_candles": 3123
+    },
+    "MSTR/USDT:USDT": {
+      "cascade_rate_72h": 0.9915086328898953,
+      "corr_with_btc": 0.763,
+      "daily_vol_pct": 0.042638,
+      "n_candles": 4350
+    },
+    "MVLL/USDT:USDT": {
+      "cascade_rate_72h": 0.9971408148677627,
+      "corr_with_btc": 0.2331,
+      "daily_vol_pct": 0.105544,
+      "n_candles": 1443
+    },
+    "NEAR/USDT:USDT": {
+      "cascade_rate_72h": 0.9880141650776355,
+      "corr_with_btc": 0.5434,
+      "daily_vol_pct": 0.049629,
+      "n_candles": 4350
+    },
+    "NVDA/USDT:USDT": {
+      "cascade_rate_72h": 0.9798234552332913,
+      "corr_with_btc": 0.3448,
+      "daily_vol_pct": 0.020815,
+      "n_candles": 3722
+    },
+    "ONDO/USDT:USDT": {
+      "cascade_rate_72h": 0.9932150313152401,
+      "corr_with_btc": 0.6062,
+      "daily_vol_pct": 0.049863,
+      "n_candles": 4350
+    },
+    "OP/USDT:USDT": {
+      "cascade_rate_72h": 0.9959514170040485,
+      "corr_with_btc": 0.6496,
+      "daily_vol_pct": 0.043338,
+      "n_candles": 4350
+    },
+    "PENDLE/USDT:USDT": {
+      "cascade_rate_72h": 0.9917662682602921,
+      "corr_with_btc": 0.5952,
+      "daily_vol_pct": 0.049753,
+      "n_candles": 4350
+    },
+    "PENGU/USDT:USDT": {
+      "cascade_rate_72h": 0.9921473057135121,
+      "corr_with_btc": 0.671,
+      "daily_vol_pct": 0.049369,
+      "n_candles": 4350
+    },
+    "PEOPLE/USDT:USDT": {
+      "cascade_rate_72h": 0.9959768669851647,
+      "corr_with_btc": 0.5288,
+      "daily_vol_pct": 0.052889,
+      "n_candles": 4350
+    },
+    "POL/USDT:USDT": {
+      "cascade_rate_72h": 0.9981015662078785,
+      "corr_with_btc": 0.5194,
+      "daily_vol_pct": 0.033307,
+      "n_candles": 4350
+    },
+    "PUMP/USDT:USDT": {
+      "cascade_rate_72h": 0.9852981969486824,
+      "corr_with_btc": 0.5619,
+      "daily_vol_pct": 0.057771,
+      "n_candles": 4350
+    },
+    "PYTH/USDT:USDT": {
+      "cascade_rate_72h": 0.9959728165114523,
+      "corr_with_btc": 0.5413,
+      "daily_vol_pct": 0.05003,
+      "n_candles": 4350
+    },
+    "RE/USDT:USDT": {
+      "cascade_rate_72h": 0.997000599880024,
+      "corr_with_btc": 0.1404,
+      "daily_vol_pct": 0.111044,
+      "n_candles": 1706
+    },
+    "RENDER/USDT:USDT": {
+      "cascade_rate_72h": 0.9923076923076923,
+      "corr_with_btc": 0.6759,
+      "daily_vol_pct": 0.044243,
+      "n_candles": 4350
+    },
+    "RUNE/USDT:USDT": {
+      "cascade_rate_72h": 0.9901904212348529,
+      "corr_with_btc": 0.6084,
+      "daily_vol_pct": 0.039848,
+      "n_candles": 4350
+    },
+    "SAMSUNG/USDT:USDT": {
+      "cascade_rate_72h": 0.9980430528375733,
+      "corr_with_btc": 0.3175,
+      "daily_vol_pct": 0.054766,
+      "n_candles": 2101
+    },
+    "SAND/USDT:USDT": {
+      "cascade_rate_72h": 0.9982868330885952,
+      "corr_with_btc": 0.6809,
+      "daily_vol_pct": 0.037885,
+      "n_candles": 4350
+    },
+    "SEI/USDT:USDT": {
+      "cascade_rate_72h": 0.998014888337469,
+      "corr_with_btc": 0.6374,
+      "daily_vol_pct": 0.037768,
+      "n_candles": 4350
+    },
+    "SKHYNIX/USDT:USDT": {
+      "cascade_rate_72h": 0.9903846153846154,
+      "corr_with_btc": 0.3016,
+      "daily_vol_pct": 0.062463,
+      "n_candles": 2101
+    },
+    "SKR/USDT:USDT": {
+      "cascade_rate_72h": 0.9976331360946745,
+      "corr_with_btc": 0.3638,
+      "daily_vol_pct": 0.059138,
+      "n_candles": 4350
+    },
+    "SOL/USDT:USDT": {
+      "cascade_rate_72h": 0.9937837837837837,
+      "corr_with_btc": 0.834,
+      "daily_vol_pct": 0.030855,
+      "n_candles": 4350
+    },
+    "SOXL/USDT:USDT": {
+      "cascade_rate_72h": 0.9863142991977348,
+      "corr_with_btc": 0.3468,
+      "daily_vol_pct": 0.091661,
+      "n_candles": 2522
+    },
+    "SPK/USDT:USDT": {
+      "cascade_rate_72h": 0.9923844537815126,
+      "corr_with_btc": 0.3093,
+      "daily_vol_pct": 0.059085,
+      "n_candles": 4350
+    },
+    "SPX/USDT:USDT": {
+      "cascade_rate_72h": 0.990651778758764,
+      "corr_with_btc": 0.6587,
+      "daily_vol_pct": 0.058655,
+      "n_candles": 4350
+    },
+    "SUI/USDT:USDT": {
+      "cascade_rate_72h": 0.9949018608208005,
+      "corr_with_btc": 0.7357,
+      "daily_vol_pct": 0.039304,
+      "n_candles": 4350
+    },
+    "TAO/USDT:USDT": {
+      "cascade_rate_72h": 0.9918740477399696,
+      "corr_with_btc": 0.5765,
+      "daily_vol_pct": 0.046877,
+      "n_candles": 4350
+    },
+    "TIA/USDT:USDT": {
+      "cascade_rate_72h": 0.9934606330107245,
+      "corr_with_btc": 0.6104,
+      "daily_vol_pct": 0.047572,
+      "n_candles": 4350
+    },
+    "UAI/USDT:USDT": {
+      "cascade_rate_72h": 0.993643031784841,
+      "corr_with_btc": 0.136,
+      "daily_vol_pct": 0.116473,
+      "n_candles": 4350
+    },
+    "UNI/USDT:USDT": {
+      "cascade_rate_72h": 0.994692144373673,
+      "corr_with_btc": 0.6476,
+      "daily_vol_pct": 0.042218,
+      "n_candles": 4350
+    },
+    "VET/USDT:USDT": {
+      "cascade_rate_72h": 0.9967213114754099,
+      "corr_with_btc": 0.6805,
+      "daily_vol_pct": 0.033585,
+      "n_candles": 4350
+    },
+    "VIRTUAL/USDT:USDT": {
+      "cascade_rate_72h": 0.9960189101766609,
+      "corr_with_btc": 0.7061,
+      "daily_vol_pct": 0.04803,
+      "n_candles": 4350
+    },
+    "VVV/USDT:USDT": {
+      "cascade_rate_72h": 0.9875389408099688,
+      "corr_with_btc": 0.4123,
+      "daily_vol_pct": 0.079183,
+      "n_candles": 4350
+    },
+    "WDC/USDT:USDT": {
+      "cascade_rate_72h": 0.9889012208657048,
+      "corr_with_btc": 0.2628,
+      "daily_vol_pct": 0.057859,
+      "n_candles": 2259
+    },
+    "WIF/USDT:USDT": {
+      "cascade_rate_72h": 0.9971077368040492,
+      "corr_with_btc": 0.6267,
+      "daily_vol_pct": 0.048713,
+      "n_candles": 4350
+    },
+    "WLD/USDT:USDT": {
+      "cascade_rate_72h": 0.996129656507015,
+      "corr_with_btc": 0.4592,
+      "daily_vol_pct": 0.065007,
+      "n_candles": 4350
+    },
+    "XLM/USDT:USDT": {
+      "cascade_rate_72h": 0.9927399838666308,
+      "corr_with_btc": 0.5489,
+      "daily_vol_pct": 0.044844,
+      "n_candles": 4350
+    },
+    "XMR/USDT:USDT": {
+      "cascade_rate_72h": 0.9867924528301887,
+      "corr_with_btc": 0.3348,
+      "daily_vol_pct": 0.040532,
+      "n_candles": 4350
+    },
+    "XPL/USDT:USDT": {
+      "cascade_rate_72h": 0.9961822953948938,
+      "corr_with_btc": 0.4708,
+      "daily_vol_pct": 0.068901,
+      "n_candles": 4350
+    },
+    "XRP/USDT:USDT": {
+      "cascade_rate_72h": 0.9969841668760995,
+      "corr_with_btc": 0.762,
+      "daily_vol_pct": 0.03016,
+      "n_candles": 4350
+    },
+    "ZEC/USDT:USDT": {
+      "cascade_rate_72h": 0.9887486278814489,
+      "corr_with_btc": 0.5034,
+      "daily_vol_pct": 0.062124,
+      "n_candles": 4350
+    },
+    "ZRO/USDT:USDT": {
+      "cascade_rate_72h": 0.9937122736418511,
+      "corr_with_btc": 0.4466,
+      "daily_vol_pct": 0.053493,
+      "n_candles": 4350
+    }
+  }
+}
